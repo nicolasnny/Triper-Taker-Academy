@@ -1,7 +1,5 @@
 # Junior Conseil Triper ✈️
 
-![taker academy logo](https://github.com/Taker-Academy/Junior-Conseil-Triper/assets/86067803/834bf33e-5888-493b-b978-bdbe0e1369a3)
-
 Voici mon premier projet à la Taker Acedemy !
 
 L'objectif de la Taker Academy est de me former au developpement web à travers plusieurs projets qui aborderont les différents aspects du web !
